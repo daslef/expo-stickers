@@ -29,4 +29,4 @@ Deploy on all platforms with Expo Application Services (EAS).
 
 ## 📝 Notes
 
-Learn more about building **StickerSmash** app from scratch in [Get started with Expo tutorial](https://docs.expo.dev/tutorial/introduction/).
+Learn more about building that app from scratch in [Get started with Expo tutorial](https://docs.expo.dev/tutorial/introduction/).
