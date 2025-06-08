@@ -9,13 +9,15 @@
   <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
 </p>
 
-## 🚀 How to use
+## 🚀 Начало работы
 
-- Clone repository via terminal `git clone https://github.com/daslef/expo-stickers.git`
-- Open *expo-stickers* directory in your IDE of choice (Visual Studio Code)
-- Install packages with `npm i`
-- Run `npm run start` to start the bundler.
-- Open the project in Expo Go app:
+- Запусти редактор *Visual Studio Code*
+- Открой терминал `Ctrl+~`
+- Выполни команду `git clone https://github.com/daslef/expo-stickers.git`
+- Выбери *File - Open Folder* и выбери директорию *expo-stickers*
+- Установи зависимости командой `npm i` в терминале
+- После установки выполни `npm run start` для запуска
+- Открой проект одним из способов:
   - iOS: [Expo Go](https://itunes.apple.com/app/apple-store/id982107779)
   - Android: [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample)
-  - Web: Any web browser
+  - Web: Любой веб-браузер
